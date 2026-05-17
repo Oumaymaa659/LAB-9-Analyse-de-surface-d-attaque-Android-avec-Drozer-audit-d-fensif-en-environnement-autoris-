@@ -1,7 +1,5 @@
 # LAB 9 – Analyse de surface d'attaque Android avec Drozer (audit défensif en environnement autorisé)
-
-**Auteur :** Oumayma Benhilal  
-**Cours :** Sécurité des applications mobiles  
+ 
 
 ## Objectifs pédagogiques
 - Maîtriser l'utilisation de Drozer pour l'analyse de sécurité d'applications Android
